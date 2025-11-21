@@ -1,11 +1,3 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = true
-	symlinks = false
-	ignorecase = true
-[remote "origin"]
-	url = C:/Users/FBC/Desktop/projects/chatbot/.
-	tagOpt = --no-tags
-	fetch = +refs/*:refs/*
-	mirror = true
+version https://git-lfs.github.com/spec/v1
+oid sha256:b436185a71c54d71ec9b4458103652552772f9380d05eabebb1936d336031525
+size 228
