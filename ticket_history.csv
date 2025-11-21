@@ -1,33 +1,3 @@
 Ticket,Category,Auto Reply
 The product quality is not good,Technical,Our technical team will look into your issue.
-my ticket is not responding,Shipping,Error from HF API: 410
-my ticket is not good,Shipping,Error from HF API: 410
-my ticket is not good,Shipping,Error from HF API: 410
-token recive nh hrha,Shipping,Error from Gemini API: 404
-token theek nh mmil rha,Shipping,Error from Gemini API: 404
-token theek nh mmil rha,Shipping,Error from Gemini API: 404
-token theek nh chl rha,Shipping,Error from Gemini API: 404
-tickets show nh hrhi,Billing,Error from Gemini API: 404
-token galat dya hai,Shipping,Error from Gemini API: 404
-ticket nh recieve hua mjh,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-ticket is not responding,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-the ticket is not good,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-the ticket is not good,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-the ticket is not good,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-the ticket is not godd,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-this is not going ticket,Shipping,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Error: Gemini API Key (GEMINI_API_KEY environment variable) is not set.
-I was charged twice for my last order,Billing,Your billing issue has been forwarded to our finance team.
-I was charged twice for my last order,Error,Failed to predict
-App shows 'error 404' when I try to open settings,Error,Failed to predict
-App shows 'error 404' when I try to open settings,Error,Failed to predict
-App shows 'error 404' when I try to open settings,Error,Failed to predict
-App shows 'error 404' when I try to open settings,Error,Failed to predict
-App shows 'error 404' when I try to open settings,Complaint,We have received your complaint and will get back soon.
+
