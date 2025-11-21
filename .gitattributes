@@ -2,3 +2,4 @@
 ticket_classifier_model/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
 saved_ticket_classifier_model/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
 chatbot-backup.git filter=lfs diff=lfs merge=lfs -text
+/chatbot-backup.git/objects/34/bf14acfb80809be8d5a62aa6f45b04fbbc677e filter=lfs diff=lfs merge=lfs -text
